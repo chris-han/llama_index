@@ -140,3 +140,28 @@ dmypy.json
 .idea
 modules/
 *.swp
+content/Efficient Methods for NLP.pdf
+content/Retrieval-Augmented Generation for.pdf
+models/ggml-gpt4all-j-v1.3-groovy.bin
+storage/docstore.json
+storage/index_store.json
+storage/vector_store.json
+cache/tmp6_mei39j
+cache/tmp16amnl_h
+cache/tmp550up0ld
+cache/models--Writer--camel-5b-hf/.no_exist/d1438e22a33b9115af0e47ab3a0fe844cbf588a6/pytorch_model.bin
+cache/models--Writer--camel-5b-hf/blobs/4a2dffb78952892cf0654fc7a8d3e5eac8cdf1f9e2b0ff061535ca5afde97264
+cache/models--Writer--camel-5b-hf/blobs/14f95b73a8291660a109dcbb4377a576ed57a498
+cache/models--Writer--camel-5b-hf/blobs/53acde11911aeca10bccfe0a26c001702ad812b0d2f589c4999bf81e6c9a2404
+cache/models--Writer--camel-5b-hf/blobs/1606525b1ba976fe7847e45901ca24b640b2539d
+cache/models--Writer--camel-5b-hf/blobs/a7034a1084c454cfb736ee39e6bdabd1d337c59e
+cache/models--Writer--camel-5b-hf/blobs/f167f3439699ff4559a12a5205c2f99bc8f6f231c48b84c1b288452ec279cd04
+cache/models--Writer--camel-5b-hf/refs/main
+cache/models--Writer--camel-5b-hf/snapshots/d1438e22a33b9115af0e47ab3a0fe844cbf588a6/pytorch_model-00001-of-00003.bin
+cache/models--Writer--camel-5b-hf/snapshots/d1438e22a33b9115af0e47ab3a0fe844cbf588a6/pytorch_model-00002-of-00003.bin
+cache/models--Writer--camel-5b-hf/snapshots/d1438e22a33b9115af0e47ab3a0fe844cbf588a6/pytorch_model-00003-of-00003.bin
+cache/models--Writer--camel-5b-hf/snapshots/d1438e22a33b9115af0e47ab3a0fe844cbf588a6/pytorch_model.bin.index.json
+.vscode/settings.json
+cache/models--Writer--camel-5b-hf/snapshots/d1438e22a33b9115af0e47ab3a0fe844cbf588a6/config.json
+cache/models--Writer--camel-5b-hf/snapshots/d1438e22a33b9115af0e47ab3a0fe844cbf588a6/generation_config.json
+.vscode/settings.json
